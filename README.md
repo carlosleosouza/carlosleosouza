@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosleosouza
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops, Terraform, Git, Gitlab, ASW Sysops
+- 🌱 I’m currently learning Devops, Terraform, Git, Gitlab, AWS Sysops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
